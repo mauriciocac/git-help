@@ -2,8 +2,9 @@
 
 Comandos mais utilizados do git na maioria dos projetos.
 
-## Ajuda
-
-	git help
-	git help commit
+## Sintaxe
 	git help <algum comando do git>
+
+### Exemplo
+
+	git help commit
