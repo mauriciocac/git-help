@@ -1,6 +1,6 @@
 # GIT
-	Comandos mais utilizados do git na maioria dos projetos.
-	## Comando HELP
+Comandos mais utilizados do git na maioria dos projetos.
+## 	Comando HELP
 * Sintaxe
 git help <algum comando do git>
 * Exemplo:
